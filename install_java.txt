@@ -13,3 +13,4 @@ https://download.oracle.com/otn/java/jdk/8u221-b11-demos/230deb18db3e4014bb8e3e8
 
 
 install java
+https://stackoverflow.com/questions/10268583/downloading-java-jdk-on-linux-via-wget-is-shown-license-page-instead/109598#1059815
