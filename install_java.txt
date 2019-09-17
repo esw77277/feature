@@ -1,3 +1,7 @@
+https://www.linode.com/docs/development/java/install-java-on-ubuntu-16-04/
+
+
+
 Install Java on ubuntu
 https://download.oracle.com/otn/java/jdk/8u221-b11-demos/230deb18db3e4014bb8e3e8324f81b43/jdk-8u221-linux-i586-demos.tar.gz?AuthParam=1568170190_0d53d4f7b4d55fc4e0de7b79e67988a9
 1. wget url.
